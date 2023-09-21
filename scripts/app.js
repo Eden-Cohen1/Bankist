@@ -242,3 +242,5 @@ btnSort.addEventListener('click', function () {
   sorted = !sorted;
   displayMovements(currentAccount, sorted);
 });
+
+console.log('test test branch test test');
